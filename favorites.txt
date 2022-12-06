@@ -1,0 +1,4 @@
+kino 1
+kino 2
+kino 3
+
